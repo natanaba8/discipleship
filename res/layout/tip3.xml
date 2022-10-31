@@ -1,0 +1,142 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tia03"
+    tools:context="com.book.discipleship.Tip3" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:textColor="#fffaf0e6"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/t1"
+        android:layout_marginTop="54dp"
+        android:text="1.የትምህርቱ ዋና ጭብጥ"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+                <TextView
+                      android:id="@+id/textView2"
+                      android:layout_width="wrap_content"
+                      android:textColor="#fffaf0e6"
+                      android:textSize="15dp"
+                      android:layout_height="wrap_content"
+                      android:text="    እንዴት ደቀመዝሙር በክርስቶስ ባለው ህይወቱ በየቀኑ ያድጋል ?
+ማለዳም ገና ጎሕ ሳይቀድ ኢየሱስ ተነሰቶ ከቤት ወጣ ወደ አንድ ገለልተኛ ስፍራም ሄዶ ይጸልይ ጀመረ ማር -1᎓35 ልክ ኢየሱስ በጸሎት ለማሳለፍ ወደ ገለለልተኛ ሥፍራ እንደሄደው ደቀመዝሙር የጥሞና ጊዜን ለማሳለፍና ከጌታው ጋር ኀብረት ለማድረግ ከህይወት ውጥረት ራሱን ዞር ማድረግ አለበት ᎓᎓  
+
+                                                  1.	ከላይ ለቀረበው ጥያቄ በተሰጠው መልስ ውስጠ የሚገኘውን ቁልፍ ቃል ለይ/ዪ ትርጉማቸውም ጻፍ/ፊ᎓᎓
+
+                                                                                2.	የዛሬውን ዋና ጭብጥ ምን ማለት እንደሆነ በራስህ/ሽ አባበል ጻፍ/ፊ?
+
+                                                                                                            3.	የዛሬውን ዋና ጭብጥ ምን ጥያቄ (ሃሳቦችን) እንደተነሳ/ሺ ያደርግኸል?
+                      "/>
+                <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:textColor="#fffaf0e6"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/t1"
+        android:layout_marginTop="54dp"
+        android:text="2.	በቃል የሚጠናው ክፍል ና የጥናት መመሪያው
+ 
+ የዕለቱ በቃል የሚጠናው ጥቅስ - መዝ 1᎓ 1 -3
+"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+                <TextView
+                      android:id="@+id/textView4"
+                      android:layout_width="wrap_content"
+                      android:textColor="#fffaf0e6"
+                      android:textSize="15dp"
+                      android:layout_height="wrap_content"
+                      android:text="   በህይወታችን የሚታየው ፍሬ በጥሩ ሁኔታ የሚመገብ እና ተኮትክቶ የማደግ ውጤት ነው መንፈሳዊ ህይወታችን በእግዚአብሔር ቃል ስር ከሰደደ የእግዚአብሔር ህይወት በህይወታችን ይበዛል᎓᎓
+
+                                                                 1.	ክፍሉን በአውዱ ውስጥ መመልከት መዝ 1ን በሙሉ ᎓᎓ ክፉዎች ከጻድቃን የተነጻጸሩት እንዴት ነው ?
+
+                                                                                                  2.	ምስጎን የሆነ ሰው የሚታወቀው በማያደርጋቸው ነገሮቹ ነው ምስጎን ሰው ራሱን የሚያርቀው ከምን ከምን ነው ?
+
+                                                                                                                                3.	በእግዚአብሔር ህግ ደስ መሰኘት ማለት ምን ማለት ነው
+
+                                                                                                                                                        4.	በቁጥር 3 ላይ የሚታየው ንጽጽር ምንድ ነው? ከዚህ በመነሳት በህይወታችን ፍሬ የምናፈራው እንዴት ነው 
+
+                                                                                                                                                                                         5.	ቁጥር 3 ላይ ይከናወንለታል ሲል ምን ማለቱ ነው 
+                                                             6.	በዚህ ሳምንት ከዚህ ክፍል ምን ትማራለህ/ሽ?
+                      "/>
+                <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:textColor="#fffaf0e6"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/t1"
+        android:layout_marginTop="54dp"
+        android:text="3.	የመጽሐፍ ቅዱስ ጥናት"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+                <TextView
+                      android:id="@+id/textView6"
+                      android:layout_width="wrap_content"
+                      android:textColor="#fffaf0e6"
+                      android:textSize="15dp"
+                      android:layout_height="wrap_content"
+                      android:text="ኢየሱስ ፍሬ ለማፍራት ከእርሱ ጋር የጠበቀ ግንኙነት ሊኖረን እንደ ሚገባ ለማሳየት ህያው በሆነ የወይን ተክል ይጠቀማል ᎓᎓"/>
+                <TextView
+                      android:id="@+id/textView7"
+                      android:layout_width="wrap_content"
+                      android:textStyle="bold"
+                      android:textColor="#fffaf0e6"
+                      android:textSize="15dp"
+                      android:layout_height="wrap_content"
+                      android:text="   የጥናት ክፍሉ ዮሐንስ 15᎓ 1-11 ይነበብ "/>
+                <TextView
+                      android:id="@+id/textView8"
+                      android:layout_width="wrap_content"
+                      android:textColor="#fffaf0e6"
+                      android:textSize="15dp"
+                      android:layout_height="wrap_content"
+                      android:text="  1.	በኢየሱስ መኖር በወይን እና ቅርንጫፎች መካከል ሰላለ ግንኙነት ያሳያል( ቁጥር 4 5 6 7 9 10 ) በእነዚህ ክፍሎች መሠረት መኖር ሲባል ምን ማለት ነው ᎓᎓
+    
+                                                               2.	በወይኑ ግንድ ለመኖር ምን ማድረግ አለብን ?
+
+                                                                            3.	በቁጥር  8 መሠረት ግባችን ፍሬ ማፍራት ነው  በህይወታችን የምናፈራው ፍሬ ባህሪይ ምንድ ነው ?
+
+                                                                                                  4.	(በቁጥር 10 መሠረት ሰውን ማጥመድ ምንድ ነው ?
+                      "/>
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/t03" />
+
+    <Button
+        android:id="@+id/t3"
+        android:layout_width="45dp"
+        android:layout_height="34dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/home3" />
+    
+
+</RelativeLayout>
